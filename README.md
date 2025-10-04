@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Adhilllllllll/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Adhilllllllll/leetcode/tree/master/0136-single-number) |
 | [2756-buy-two-chocolates](https://github.com/Adhilllllllll/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/Adhilllllllll/leetcode/tree/master/2756-buy-two-chocolates) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Adhilllllllll/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
