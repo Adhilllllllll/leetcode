@@ -77,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adhilllllllll/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Adhilllllllll/leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
