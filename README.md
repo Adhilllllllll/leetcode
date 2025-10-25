@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adhilllllllll/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Adhilllllllll/leetcode/tree/master/0283-move-zeroes) |
 | [1848-sum-of-unique-elements](https://github.com/Adhilllllllll/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Adhilllllllll/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2634-minimum-common-value](https://github.com/Adhilllllllll/leetcode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/Adhilllllllll/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Math
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Adhilllllllll/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2756-buy-two-chocolates](https://github.com/Adhilllllllll/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Adhilllllllll/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2756-buy-two-chocolates](https://github.com/Adhilllllllll/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
