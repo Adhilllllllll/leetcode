@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adhilllllllll/leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Adhilllllllll/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Adhilllllllll/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Adhilllllllll/leetcode/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adhilllllllll/leetcode/tree/master/0001-two-sum) |
 | [1848-sum-of-unique-elements](https://github.com/Adhilllllllll/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2634-minimum-common-value](https://github.com/Adhilllllllll/leetcode/tree/master/2634-minimum-common-value) |
 ## Counting
